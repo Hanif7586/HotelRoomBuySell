@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39602718746",
+    "project_id": "hotelroom-f7d9b",
+    "storage_bucket": "hotelroom-f7d9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39602718746:android:59ffc85786b9520deda9a3",
+        "android_client_info": {
+          "package_name": "com.example.dsaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39602718746-9vu8nmdeiskffkeu51da3k73m4pv6rv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyt18SzHbJbAnKVvDInj7ouoSqdVJdAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39602718746-9vu8nmdeiskffkeu51da3k73m4pv6rv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
